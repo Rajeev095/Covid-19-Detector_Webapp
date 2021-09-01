@@ -1,13 +1,13 @@
 # Covid-19-Detection
 Detecting Covid-19 from X-ray Images.
 
-<img src="https://github.com/manthanpatel98/Covid-19-Detection/blob/master/images/covidimg.jpg" height="400">
+<img src="https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/images/covidimg.jpg" height="400">
 
 ---
 
 ## **Covid-19 Detection Project**
 
-<img src="https://github.com/manthanpatel98/Covid-19-Detection/blob/master/images/Covid.gif" width="600">
+<img src="https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/images/Covid.gif" width="600">
 
 ### [**WebApp**](https://covidxraydetection.herokuapp.com/)
 
@@ -32,7 +32,7 @@ To build a CNN model for detecting COVID-19 and create a complete end to end Pro
 
 ## Model:
 * Below is the model that I have created.
-<img src="https://github.com/manthanpatel98/Covid-19-Detection/blob/master/images/covid.h5.png" height="700">
+<img src="https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/images/covid.h5.png" height="700">
 
 * If you also want to visualize your model check [Netron](https://lutzroeder.github.io/netron/).
 
@@ -62,20 +62,20 @@ To build a CNN model for detecting COVID-19 and create a complete end to end Pro
 
 ## **Loss & Accuracy:**
 
-<img src="https://github.com/manthanpatel98/Covid-19-Detection/blob/master/images/acc-val.png" height="250">
+<img src="https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/images/acc-val.png" height="250">
 
 ### **Accuracy:**
-<img src="https://github.com/manthanpatel98/Covid-19-Detection/blob/master/images/acc.png" height="250">
+<img src="https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/images/acc.png" height="250">
 
 ### **Loss:**
-<img src="https://github.com/manthanpatel98/Covid-19-Detection/blob/master/images/loss.png" height="250">
+<img src="https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/images/loss.png" height="250">
 
 ---
 
-* Detail code about training model is available in [**Covid(GoogleColab).ipynb**](https://github.com/manthanpatel98/Covid-19-Detection/blob/master/Covid(GoogleColab).ipynb) and prediction based code is available in [**Covid.ipynb**](https://github.com/manthanpatel98/Covid-19-Detection/blob/master/Covid.ipynb).
+* Detail code about training model is available in [**Covid(GoogleColab).ipynb**](https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/Covid(GoogleColab).ipynb) and prediction based code is available in [**Covid.ipynb**](https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/Covid.ipynb).
 
-* Check [**app.py**](https://github.com/manthanpatel98/Covid-19-Detection/blob/master/app.py) regarding WebApp code.
+* Check [**app.py**](https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/app.py) regarding WebApp code.
 
-* Our Final Trained model is [**covid.h5**](https://github.com/manthanpatel98/Covid-19-Detection/blob/master/covid.h5).
+* Our Final Trained model is [**covid.h5**](https://github.com/Rajeev095/Covid-19-Detector_Webapp/blob/main/covid.h5).
 
 
